@@ -1,0 +1,131 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MediMoniAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{45, 438}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MediMoniAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{214, 489}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MediMoni */ = {
+		activeExec = 0;
+		executables = (
+			66DD103015BA98C20036D83B /* MediMoni */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 66DD103015BA98C20036D83B /* MediMoni */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MediMoni */;
+		codeSenseManager = 66DD104415BA98D80036D83B /* Code sense */;
+		executables = (
+			66DD103015BA98C20036D83B /* MediMoni */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 364550338;
+			PBXWorkspaceStateSaveDate = 364550338;
+		};
+		perUserProjectItems = {
+			66DD103B15BA98D80036D83B /* PBXTextBookmark */ = 66DD103B15BA98D80036D83B /* PBXTextBookmark */;
+			66DD103C15BA98D80036D83B /* PBXBookmark */ = 66DD103C15BA98D80036D83B /* PBXBookmark */;
+			66DD103D15BA98D80036D83B /* PBXTextBookmark */ = 66DD103D15BA98D80036D83B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 66DD104315BA98D80036D83B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	66DD103015BA98C20036D83B /* MediMoni */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MediMoni;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	66DD103B15BA98D80036D83B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MediMoniAppDelegate.m */;
+		name = "MediMoniAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 214;
+	};
+	66DD103C15BA98D80036D83B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MediMoniAppDelegate.h */;
+	};
+	66DD103D15BA98D80036D83B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MediMoniAppDelegate.h */;
+		name = "MediMoniAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 45;
+	};
+	66DD104315BA98D80036D83B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	66DD104415BA98D80036D83B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
